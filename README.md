@@ -7,7 +7,7 @@ Main Features
 Supports CSV, Excel, and JSON files
 Performs automated data analysis including statistics, correlations, and missing values
 
-2.Visualization Generation
+2. Visualization Generation
 Creates relevant charts based on data type (time series, correlations, distributions)
 Saves visualizations for inclusion in reports
 
@@ -15,7 +15,6 @@ Saves visualizations for inclusion in reports
 Generates executive summaries
 Identifies key insights from data
 Provides strategic recommendations
-
 
 4. Flexible Report Types
 Full comprehensive business reports
